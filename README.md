@@ -28,7 +28,7 @@ Thanks!
 This section covers how to install the BepInEx mod loader and the mod itself.
 
 ## BepInEx Setup
-If BepInEx has already been installed, skip to the [Mod Setup](#mod-install) section.
+If BepInEx has already been installed, skip to the [Mod Install](#mod-install) section.
 
 * Download BepInEx from https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip
 * Extract the contents of the BepInEx zip file into the game's directory:
