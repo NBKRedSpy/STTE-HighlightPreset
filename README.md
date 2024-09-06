@@ -31,23 +31,19 @@ This section covers how to install the BepInEx mod loader and the mod itself.
 If BepInEx has already been installed, skip to the [Mod Setup](#mod-setup) section.
 
 * Download BepInEx from https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip
-
 * Extract the contents of the BepInEx zip file into the game's directory:
 ```<Steam Directory>\steamapps\common\Shortest Trip to Earth```
-
+    
     __Important__:  The .zip file *must* be extracted to the root folder of the game.  If BepInEx was extracted correctly, the following directory will exist: ```<Steam Directory>\steamapps\common\Shortest Trip to Earth\BepInEx```.  This is a common install issue.
 
 * Run the game.  Once the main menu is shown, exit the game.  
-    
 * If the install was successful, there will now be a ```<Game Dir>/BepInEx/plugins``` directory.
 
 ## Mod Setup
 * Download the HighlightPreset.zip.  
     * If on Nexumods.com, download from the Files tab.
     * Otherwise, download from https://github.com/NBKRedSpy/STTE-HighlightPreset/releases/
-
 * Extract the contents of the zip file into the ```<Game Dir>/BepInEx/plugins``` folder.
-
 * Run the Game.  The mod will now be enabled.
 
 # Uninstalling
