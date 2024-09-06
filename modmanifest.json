@@ -1,0 +1,7 @@
+{
+  "UniqueModName": "NBKRedSpy_HighlightPreset",
+  "Assemblies": [
+    "HighlightPreset.dll"
+  ],
+  "Dependencies": []
+}
