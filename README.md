@@ -7,6 +7,10 @@ The color can be customized.  See the [Configuration](#configuration) section be
 
 **Important**: When a game is loaded, there will not be a highlighted preset as the game does not actually load a preset at that point.  Once a preset is loaded, the mod will highlight the current preset.
 
+# Steam Workshop
+For Steam Users, subscribing to this mod does not install the mod.
+Follow [Installation section](#installation) instructions below to install.
+
 # Compatibility
 * Some mods instruct the user to overwrite the game's original files.  This mod may not be compatible with those mods.
     * This mod does not affect the original game files.

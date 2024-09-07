@@ -1,0 +1,10 @@
+"workshopitem"
+{
+	"appid"		"812040"
+	"visibility"		"0"
+	"title"		"Preset Highlight"
+	"description"		"Makes the currently loaded preset easier to see by using a more visible highlight color."
+	"previewfile"		"C:\src\Shortest Trip to Earth\HighlightPreset\Workshop\thumbnail.png"
+	"contentfolder"		"C:\src\Shortest Trip to Earth\HighlightPreset\Workshop"
+	"publishedfileid"		"3326126090"
+}
